@@ -1,6 +1,4 @@
-# Github_Actions
-.
-### My First GitHub Actions – README
+### My First GitHub Actions 
 
 This project demonstrates a simple CI pipeline using GitHub Actions.
 Whenever code is pushed to the repository, GitHub Actions automatically:
